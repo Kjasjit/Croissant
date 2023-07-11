@@ -1,0 +1,16 @@
+body{
+    background: rgb(198, 240, 126);
+}
+h1,p,footer{
+    text-align: center;
+}
+footer a {
+    margin: 0 10px;
+    color: fuchsia;
+}
+.croissant-foto{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
