@@ -1,12 +1,12 @@
 body{
-    background: rgb(198, 240, 126);
+    background: rgb(244, 196, 248);
 }
 h1,p,footer{
     text-align: center;
 }
 footer a {
     margin: 0 10px;
-    color: fuchsia;
+    color: rgb(89, 185, 16);
 }
 .croissant-foto{
     width: 700px;
